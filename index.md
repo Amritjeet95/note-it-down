@@ -52,6 +52,9 @@ docker ps
 
 # shows all images that we installed previously (full history)
 docker ps --all
+
+#
+docker pull [image_name]
 ```
 
 
@@ -98,6 +101,17 @@ git stash apply stash@{n}
 # Commit changes with a message, skipping pre-commit hooks
 git commit -m 'Removed comments' --no-verify
 
+# Commit changes with a message, skipping pre-commit hooks
+git remote add origin https://github.com/your-username/your-repository.git
+
+# To check the current remote repository (origin) in your Git configuration, you can use the following command:
+git remote -v
+
+# To check commits in one line and nicely format with branch names that merged these commits, shows first 10 commits:
+git log --oneline --all -n 10
+
+# Checkout to previous branch:
+git checkout -
 ```
 
 
@@ -184,6 +198,7 @@ is:pr is:open base:main review:required -reviewed-by:@me
 - https://developers.google.com/search/docs/fundamentals/get-started-developers#desktop (SEO)
 - https://developers.google.com/search/docs/specialty/international/localized-versions (SEO)
 - https://developers.google.com/search/docs/specialty/international/localized-versions#html (SEO)
+- https://github.com/epwalsh/obsidian.nvim/blob/main/README.md (Note taking app)
 
 
 
@@ -202,3 +217,17 @@ history
 
 
 ```
+
+
+
+
+
+
+
+
+
+
+<br><br><br>
+
+# * [___Next___](./nextjs.markdown) 
+
