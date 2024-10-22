@@ -22,6 +22,20 @@ curl -fsSL https://get.pnpm.io/install.sh | env PNPM_VERSION=7.33.6 sh -
 
 
 
+<br><br><br>
+
+# * ___HUSKY (Pre commit hook, run tasks before commit)___
+
+- https://cz-git.qbb.sh/faq/#opening-a-like-vim-editor-in-git-hooks-mode
+
+```sh
+npm i husky
+
+```
+
+
+
+
 
 
 
