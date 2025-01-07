@@ -1,6 +1,10 @@
+***<h1 style="text-align:center; color:blue;">Main Page</h1>***
+
+
 <mark>(Press <u>Cmd + Shift + V</u> to preview this file in VS-Code)</mark>
 
 
+[Your current project Doc >>](./paramount-notes-safe.md)
 
 
 
@@ -173,7 +177,6 @@ To exclude unwanted repositories from search results VS-Code, you can update the
 
 
 
-
 <br><br><br>
 
 # * ___Github___
@@ -220,6 +223,29 @@ is:pr is:open base:main review:required -reviewed-by:@me
 
 
 
+<br><br><br>
+
+# * ___React Testing Library (RTL)___
+
+- Jest Readme [Jest](./jest.md)
+- RTL Readme [RTL Examples](./jest-test-with-RTL/test-example-list.md)
+
+### Questions
+
+1. **How to mock external UI library, and topics below?** 🎥
+   - [Watch Video](https://www.youtube.com/watch?v=kCe1DDFy09I) (Bruno Antunes)
+   - Topics covered:
+     - Mocking components
+     - Mocking / Spying methods like Math.random
+     - Require Actual while importing external library
+     - Spy on a method of a library
+     - Mocking a complex function so that when we import that component, we get the same mock from __mock__ folder which is located close to the actual file. Jest will grab the mock file instead of actual component.
+
+
+
+
+
+
 
 <br><br><br>
 
@@ -243,5 +269,5 @@ history
 
 <br><br><br>
 
-# * [___Next___](./nextjs.markdown) 
+# * [___NextJS___](./nextjs.md) 
 

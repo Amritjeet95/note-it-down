@@ -1,4 +1,6 @@
-[<< Go back to main page](./index.md)
+***<h1 style="text-align:center; color:blue;">Docker Docs</h1>***
+
+[<< Go back to Main page](./index.md)
 
 ```bash 
 # To check the Docker version
