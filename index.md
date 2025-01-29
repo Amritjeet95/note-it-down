@@ -199,23 +199,39 @@ is:pr is:open base:main review:required -reviewed-by:@me
 - https://linuxize.com/post/how-to-create-bash-aliases/
 - https://xiaolishen.medium.com/use-multiple-ssh-keys-for-different-github-accounts-on-the-same-computer-7d7103ca8693
 - https://jeongwhanchoi.medium.com/install-tmux-on-osx-and-basics-commands-for-beginners-be22520fd95e
+  
+  - Vue
 - https://www.youtube.com/watch?v=QIDhzBg5eWY (Vue testing)
 - https://lmiller1990.github.io/vue-testing-handbook/stubbing-components.html#write-a-test-using-mount (Vue testing)
-- https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/ (SEO Href generator)
+  
+  - TypeScript TS
 - https://blog.bitsrc.io/type-vs-interface-in-typescript-cf3c00bc04ae (TS)
+  
 - https://getgrav.org/blog/macos-sonoma-apache-multiple-php-versions (PHP)
 - https://www.tutorialrepublic.com/faq/how-to-get-the-first-element-of-an-array-in-php.php (PHP)
 - https://www.geeksforgeeks.org/data-structures/ (Data Structure- DS)
+  
 - https://github.com/cypress-io/cypress-realworld-app/blob/develop/cypress/tests/api/api-bankaccounts.spec.ts (CY)
+  
 - https://www.apollographql.com/tutorials/#certifications (Apollo)
 - https://www.apollographql.com/tutorials/lift-off-part1/06-apollo-explorer (Apollo)
-- https://nextjs.org/learn/dashboard-app (NextJS)
-- https://nextjs.org/learn/dashboard-app/getting-started (NextJS)
+  
+  - [NextJS](./nextjs.md)
 
+
+  - SEO
 - https://developers.google.com/search/docs/fundamentals/get-started-developers#desktop (SEO)
 - https://developers.google.com/search/docs/specialty/international/localized-versions (SEO)
 - https://developers.google.com/search/docs/specialty/international/localized-versions#html (SEO)
+- https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/ (SEO Href generator)
+
 - https://github.com/epwalsh/obsidian.nvim/blob/main/README.md (Note taking app)
+  
+  - CSS
+- https://medium.com/@truszko1/picture-tags-vs-img-tags-their-uses-and-misuses-4b4a7881a8e1 (Image optimization, picture vs img)
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Responsive_images (Responsive Images)
+- https://www.youtube.com/watch?v=ZAY9ROkyPAU (Bill Raymond, CSS Grid to create responsive hero images )
+- https://www.codeguage.com/blog/shimmer-effect-html-css (Shimmer effect for loading content)
 
 
 
