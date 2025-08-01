@@ -1,0 +1,8 @@
+// Export breakpoint values for use in JS
+@use 'breakpoints.scss' as *;
+
+:export {
+  @each $breakpoint, $value in $breakpoints {
+    #{$breakpoint}: $value;
+  }
+}
