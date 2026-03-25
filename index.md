@@ -3,6 +3,7 @@
 <mark>(Press <u>Cmd + Shift + V</u> to preview this file in VS-Code)</mark>
 
 [Your current project Doc >>](./paramount-notes-safe.md)
+[Your current project Doc >>](./ptv-notes-safe.md)
 
 &nbsp;&nbsp;&nbsp;
 
@@ -93,6 +94,9 @@ git log --oneline --all -n 10
 
 # Checkout to previous branch:
 git checkout -
+
+# Reset last 2 commits but keep changes staged:
+git reset --soft HEAD~2  # Moves HEAD back by 2 commits, keeps all changes from those commits staged (in the index), so you can recommit or modify as needed.
 ```
 
 &nbsp;&nbsp;&nbsp;
@@ -206,14 +210,9 @@ is:pr is:open base:main review:required -reviewed-by:@me
 
 &nbsp;&nbsp;&nbsp;
 
-# * ***Bash***
-
-```bash
-# To show commands you ran in the session
-history
+# *  [***Bash***](./bash.md)
 
 
-```
 
 &nbsp;&nbsp;&nbsp;
 
@@ -225,3 +224,20 @@ history
 
 - CSS Readme [CSS](./css.md)
 - CSS Utilities [CSS Examples](./css/css-utilities.md)
+
+
+# * [***Brain Storming tools***](./brainstorm-tools.md)
+- https://untools.co/
+
+
+# * [***Tanstack***](./tanstack.md)
+- How to make dev tool appear in Chrome?
+  type "toggleDevtools" in console. (Only if enabled on lower env)
+
+
+# * [***PNPM***](./pnpm.md)
+
+
+# * [***NodeJS Libraries***](./.md)
+- https://voici.larswaechter.dev/examples/sorting (A Node.js library for pretty printing your data on the terminal)
+  
