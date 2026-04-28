@@ -204,6 +204,12 @@ is:pr is:open base:main review:required -reviewed-by:@me
 
 &nbsp;&nbsp;&nbsp;
 
+# * ***Jest***
+
+- Graph Readme [Jest](./graphql.md)
+
+&nbsp;&nbsp;&nbsp;
+
 # * ***React***
 
 - React Readme [React](./react.md)
@@ -228,6 +234,8 @@ is:pr is:open base:main review:required -reviewed-by:@me
 
 # * [***Brain Storming tools***](./brainstorm-tools.md)
 - https://untools.co/
+
+# * [***Backup & sync software***](./backup-software.md)
 
 
 # * [***Tanstack***](./tanstack.md)
